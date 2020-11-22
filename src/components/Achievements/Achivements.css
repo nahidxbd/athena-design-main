@@ -1,0 +1,33 @@
+.achivements-bg:hover{
+    background-color: #14c7cd;
+    border-radius: 0px 50px 0px 50px;
+    color: white!important;
+    transform: scale(1.03);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    box-shadow: 0 20px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    cursor: pointer;
+}
+.achivements-bg{
+    color: black;
+    background-color: white;
+    border-radius: 0px 50px 0px 50px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05); 
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+.achivements-bgTwo{
+    background-color: white;
+    color: black;
+    border-radius: 50px 0px 50px 0px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05); 
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+.achivements-bgTwo:hover{
+    background-color: #14c7cd;
+    border-radius: 50px 0px 50px 0px;
+    color: white!important;
+    transform: scale(1.03);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    box-shadow: 0 20px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    cursor: pointer;
+}
+ 

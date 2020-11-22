@@ -1,0 +1,24 @@
+.curve-button{
+ color: white!important;
+ border-radius: 20px 0px 20px 0px;
+ background: hsl(188, 87%, 45%);
+ background-image:  radial-gradient( at 0 140%, #0ab2e6 50%, #0ab2e6 46%, #3bd6cd 71%);
+  /* width: 200px;
+  height: 50px; */
+ 
+  /* border-radius: 10px; */
+  display: inline-block!important;
+  padding: 7px 20px 0px 20px!important;
+  text-align: center;
+  border: none;
+  
+}
+.navbar-bg{
+  background-image: url('../../athena-design-resources/Illustration/navBarBg.png');
+  background-repeat: no-repeat;
+  background-size:583px 300px;
+  background-position: left -350px top -150px;
+
+  /* border-radius: 50px; */
+
+}

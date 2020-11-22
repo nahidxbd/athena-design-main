@@ -1,0 +1,6 @@
+.header-backgroundImage{
+    background-image: url('../../athena-design-resources/Illustration/headerBg.png');
+    background-repeat: no-repeat;
+    background-position: right -350px top -220px;
+    background-size:65%;
+}
